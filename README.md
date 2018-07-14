@@ -1,3 +1,3 @@
 # hello-world
 this is a test
-i am the best in the world ever xD
+This is my first GitHub Repo. Just gonna keep this because why not. 
